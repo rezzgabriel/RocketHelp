@@ -5,13 +5,13 @@ import android.content.Context;
 import android.content.res.Configuration;
 import androidx.annotation.NonNull;
 
-import com.facebook.react.PackageList;
-import com.facebook.react.ReactApplication;
-import com.facebook.react.ReactInstanceManager;
-import com.facebook.react.ReactNativeHost;
-import com.facebook.react.ReactPackage;
-import com.facebook.react.config.ReactFeatureFlags;
-import com.facebook.soloader.SoLoader;
+impocom.rockethelp.react.PackageList;
+impocom.rockethelp.react.ReactApplication;
+impocom.rockethelp.react.ReactInstanceManager;
+impocom.rockethelp.react.ReactNativeHost;
+impocom.rockethelp.react.ReactPackage;
+impocom.rockethelp.react.config.ReactFeatureFlags;
+impocom.rockethelp.soloader.SoLoader;
 import com.rockethelp.newarchitecture.MainApplicationReactNativeHost;
 
 import expo.modules.ApplicationLifecycleDispatcher;
